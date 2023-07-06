@@ -1,1 +1,5 @@
 @import '../fonts/SFPro/stylesheet.css';
+
+p {
+    text-align: justify;
+}
