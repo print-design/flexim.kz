@@ -24,6 +24,7 @@ a:active, a:hover { color: magenta; text-decoration: underline;}
         font-weight: bold;
         font-style: italic;
         color: darkmagenta;
+        margin-top: 0.5rem;
     }
 }
 
@@ -41,6 +42,5 @@ a:active, a:hover { color: magenta; text-decoration: underline;}
         font-weight: bold;
         font-style: italic;
         color: darkmagenta;
-        margin-top: 0.5rem;
     }
 }
