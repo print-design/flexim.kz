@@ -3,3 +3,44 @@
 p {
     text-align: justify;
 }
+
+a:link, a:visited { color: darkmagenta; }
+
+a:active, a:hover { color: magenta; text-decoration: underline;}
+
+
+
+@media (max-width: 767px){
+    #top_logo {
+        width: 2rem;
+        height: auto;
+        margin-right: 2rem;
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+    }
+    
+    #top_title {
+        font-size: 2rem;
+        font-weight: bold;
+        font-style: italic;
+        color: darkmagenta;
+    }
+}
+
+@media (min-width: 768px){
+    #top_logo {
+        width: 8rem;
+        height: auto;
+        margin-right: 2rem;
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+    }
+    
+    #top_title {
+        font-size: 7rem;
+        font-weight: bold;
+        font-style: italic;
+        color: darkmagenta;
+        margin-top: 0.5rem;
+    }
+}

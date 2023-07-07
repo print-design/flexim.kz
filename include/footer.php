@@ -1,4 +1,4 @@
-<footer>
+<footer style="border-top: solid 1px lightgray; margin-top: 1rem; padding-top: 1rem; padding-bottom: 3rem;">
     <div class="container">
         <div class="row">
             <div class="col-12 col-lg-2">
