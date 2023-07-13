@@ -8,6 +8,9 @@
                 <a href="<?=APPLICATION ?>/">Главная</a>
             </div>
             <div class="col-12 col-lg-2">
+                <a href="<?=APPLICATION ?>/production.php">Продукция</a>
+            </div>
+            <div class="col-12 col-lg-2">
                 <a href="<?=APPLICATION ?>/contact.php">Контакт</a>
             </div>
         </div>
