@@ -1,3 +1,6 @@
+<?php
+include 'include/topscripts.php';
+?>
 <!DOCTYPE html>
 <html>
     <head>
@@ -16,8 +19,11 @@
             <p>Заботясь об удобстве клиентов, мы обеспечиваем доставку продукции своим транспортом в любую точку Казахстана, а также в сопредельные страны.</p>
             <p>Для печати используется планетарная флексографическая машина Soloflex фирмы Windmoeller & Hoelscher (Германия).</p>
         </div>
+        <?php
+        include 'include/footer.php';
+        ?>
     </body>
     <?php
-    include 'include/footer.php';
+    include 'include/script.php';
     ?>
 </html>

@@ -8,11 +8,8 @@
                 <a href="<?=APPLICATION ?>/">Главная</a>
             </div>
             <div class="col-12 col-lg-2">
-                <a href="<?=APPLICATION ?>/contact.php">Контакты</a>
+                <a href="<?=APPLICATION ?>/contact.php">Контакт</a>
             </div>
         </div>
     </div>
 </footer>
-<script src="<?=APPLICATION ?>/js/jquery-3.5.1.min.js"></script>
-<script src="<?=APPLICATION ?>/js/bootstrap.min.js"></script>
-<script src="<?=APPLICATION ?>/js/jquery.maskedinput.js"></script>

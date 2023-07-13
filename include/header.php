@@ -2,7 +2,7 @@
     <div class="container">
         <div class="d-flex justify-content-start">
             <div>
-                <img src="<?=APPLICATION ?>/images/logotype.jpg" title="FLEXIM" id="top_logo" />
+                <a href="<?=APPLICATION ?>/"><img src="<?=APPLICATION ?>/images/logotype.jpg" title="FLEXIM" id="top_logo" /></a>
             </div>
             <div>
                 <div id="top_title">FLEXIM</div>
@@ -14,7 +14,7 @@
             <nav class="navbar navbar-expand">
                 <a class="navbar-brand" href="<?=APPLICATION ?>/"><i class="fas fa-home"></i></a>
                 <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link" href="<?=APPLICATION ?>/contact.php">Контакты</a></li>
+                    <li class="nav-item"><a class="nav-link" href="<?=APPLICATION ?>/contact.php">Контакт</a></li>
                 </ul>
             </nav>
         </div>
